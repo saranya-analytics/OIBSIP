@@ -17,5 +17,13 @@ Tech Stack: Python, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
 Outputs: 
 iris_classification.ipynb(Jupyter Notebook)
 iris_sepal_scatter.png
+
+Task 4: Email Spam Detection with Machine Learning
+Objective: Developed an NLP-based classification model using TF-IDF Vectorization and Logistic Regression to accurately detect and filter spam emails/messages.
+Tech Stack: Python, Pandas, Scikit-Learn (TF-IDF, Logistic Regression), Matplotlib, Seaborn
+Outputs: 
+email_spam_detection.ipynb (Jupyter Notebook)
+spam_confusion_matrix.png
+
 iris_petal_scatter.png
 iris_confusion_matrix.png
